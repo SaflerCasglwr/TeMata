@@ -6,7 +6,7 @@ position: absolute;
 top: 0; 
 right: 0; 
 align-items: center; 
-background-color: rgb(190, 170, 0);
+background-color: #FF5F00;
 display: flex; 
 justify-content: space-between; 
 padding: 10px 4px; 
@@ -18,7 +18,7 @@ border-bottom: 5px solid #000000;
 list-style-type: none; 
 margin-left: -4px; 
 overflow: hidden; 
-background-color: rgb(190, 170, 0);
+background-color: #FF5F00;
 color: green; 
 display: flex; 
 float: right; 
@@ -47,11 +47,11 @@ transition: background-color 0.3s ease, color 0.3s linear;
  
  
 .navbar ul li a:hover { 
-  background-color: rgb(190, 170, 0);
-   color: #000000; 
-transform: scale(1.1);  
-   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);  
-text-shadow: 2px 2px 5px rgba(0, 0, 0, 1.5); 
+  background-color: #FF5F00;
+  color: #000000; 
+  transform: scale(1.1);  
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);  
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 1.5); 
 } 
  
  
@@ -62,7 +62,7 @@ text-shadow: 2px 2px 5px rgba(0, 0, 0, 1.5);
   left: 0; 
   width: 0; 
 height: 2px; 
-background-color: rgb(190, 170, 0);
+background-color: #FF5F00;
 transition: width 0.3s ease-in-out; 
 } 
  
