@@ -10,7 +10,7 @@ background-color: #FF5F00;
 display: flex; 
 justify-content: space-between; 
 padding: 10px 4px; 
-border-bottom: 5px solid #000000;  
+border-bottom: 1px solid #FFFFFF;  
 } 
  
  
@@ -29,7 +29,7 @@ font-size: 17px;
 .navbar ul li { 
 float: center; 
 margin-left: 4px; 
-border: 1px solid #000000; 
+border: 1px solid #FFFFFF; 
 align-content: center; 
 } 
  
