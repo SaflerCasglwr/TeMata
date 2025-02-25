@@ -29,7 +29,7 @@ font-size: 17px;
 .navbar ul li { 
 float: center; 
 margin-left: 4px; 
-border: 5px solid #000000; 
+border: 1px solid #000000; 
 align-content: center; 
 } 
  
@@ -48,7 +48,7 @@ transition: background-color 0.3s ease, color 0.3s linear;
  
 .navbar ul li a:hover { 
   background-color: #FF5F00;
-  color: #000000; 
+  color: #FFFFFF; 
   transform: scale(1.1);  
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);  
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 1.5); 
